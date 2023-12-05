@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,800&display=swap');
+
+body{
+    background-color: black;
+    font-family: 'McLaren', cursive;
+    height: 100%;
+}
+
+b{
+    color: #ff6868;
+}
+
+h1 {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #ffffff;
+}
+
+p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+section {
+    padding: 5%;
+    padding-top: 0;
+    height: 100%;
+}
+
+.side {
+    margin-left: 0;
+}
+
+button {
+    margin: 10px;
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    margin-bottom: 25px;
+}
+
+button:hover {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+textarea {
+    padding: 1%;
+    border-color: #ffffff;
+    border-width: thick;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 800;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+}
+
+h6{
+    color: #ffffff;
+}
